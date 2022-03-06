@@ -105,8 +105,9 @@ $$
 |  ![](imori.jpg)  |            ![](answers_image/answer_4.jpg)             |
 
 > 答案
-> * Python >> [answers/answer_4.py](answers/answer_4.py)
-> * C++ >> [answers_cpp/answer_4.py](answers_cpp/answer_4.py)
+> 
+> * Python >> [answers_py/answer_4.py](answers_py/answer_4.py)
+> * C++ >> [answers_cpp/answer_4.cpp](answers_cpp/answer_4.cpp)
 
 ## 问题五：$\text{HSV}$变换
 
