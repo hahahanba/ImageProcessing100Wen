@@ -154,9 +154,9 @@ d_x = \frac{x'}{a} - x\\
   d_y = \frac{y'}{a} - y\\
   I'(x',y') = (1-d_x)\  (1-d_y)\  I(x,y) + d_x\  (1-d_y)\  I(x+1,y) + (1-d_x)\  d_y\  I(x,y+1) + d_x\  d_y\  I(x+1,y+1)
 $$
-| 输入 (imori.jpg) | 输出(answers_image/answer_26.jpg) |
-| :--------------: | :-------------------------------: |
-|  ![](imori.jpg)  | ![](answers_image/answer_26.jpg)  |
+| 输入 (imori.jpg) | 输出(answers_image/answer_26.jpg)|
+|:--------------: | :-------------------------------:|
+| ![](imori.jpg)  | ![](answers_image/answer_26.jpg) |
 
 > 答案 
 >
