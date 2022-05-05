@@ -31,7 +31,7 @@ $$
 | :----------------: | :-------------------------: |
 |  ![](thorino.jpg)  | ![](answers/answer_81.jpg)  |
 
-答案 >> [answers/answer_81.py](https://github.com/yoyoyo-yo/Gasyori100knock/blob/master/Question_81_90/answers/answer_81.py)
+答案 >> [answers/answer_81.py](answers/answer_81.py)
 
 ## 问题八十二：Harris角点检测第一步：Sobel + Gausian
 
@@ -66,7 +66,7 @@ Harris 角点检测算法如下：
 | :----------------: | :-------------------------: |
 |  ![](thorino.jpg)  | ![](answers/answer_82.png)  |
 
-答案 >> [answers/answer_82.py](https://github.com/yoyoyo-yo/Gasyori100knock/blob/master/Question_81_90/answers/answer_82.py)
+答案 >> [answers/answer_82.py](answers/answer_82.py)
 
 ## 问题八十三：Harris角点检测第二步：角点检测
 
@@ -78,7 +78,7 @@ Harris 角点检测算法如下：
 | :----------------: | :-------------------------: |
 |  ![](thorino.jpg)  | ![](answers/answer_83.jpg)  |
 
-答案 >> [answers/answer_83.py](https://github.com/yoyoyo-yo/Gasyori100knock/blob/master/Question_81_90/answers/answer_83.py)
+答案 >> [answers/answer_83.py](answers/answer_83.py)
 
 ## 问题八十四：简单图像识别第一步：减色化+柱状图[^3]
 
@@ -111,7 +111,7 @@ Harris 角点检测算法如下：
 |:---:|
 |![](answers/answer_84.png)|
 
-答案 >> [answers/answer_84.py](https://github.com/yoyoyo-yo/Gasyori100knock/blob/master/Question_81_90/answers/answer_84.py)
+答案 >> [answers/answer_84.py](answers/answer_84.py)
 
 ```bash
 被存储的直方图的内容
@@ -141,7 +141,7 @@ test_akahara_2.jpg is similar >> train_akahara_1.jpg  Pred >> akahara
 test_madara_1.jpg is similar >> train_madara_2.jpg  Pred >> madara
 test_madara_2.jpg is similar >> train_akahara_2.jpg  Pred >> akahara
 ```
-答案 >> [answers/answer_85.py](https://github.com/yoyoyo-yo/Gasyori100knock/blob/master/Question_81_90/answers/answer_85.py)
+答案 >> [answers/answer_85.py](answers/answer_85.py)
 
 ## 问题八十六：简单图像识别第三步：评估
 
@@ -156,7 +156,7 @@ $$
 ```bash
 Accuracy >> 0.75 (3/4)
 ```
-答案 >> [answers/answer_86.py](https://github.com/yoyoyo-yo/Gasyori100knock/blob/master/Question_81_90/answers/answer_86.py)
+答案 >> [answers/answer_86.py](answers/answer_86.py)
 
 ## 问题八十七：简单图像识别第四步：k-NN
 
@@ -182,7 +182,7 @@ test_madara_2.jpg is similar >> train_akahara_2.jpg, train_madara_3.jpg, train_m
 Accuracy >> 1.0 (4/4)
 ```
 
-答案 >> [answers/answer_87.py](https://github.com/yoyoyo-yo/Gasyori100knock/blob/master/Question_81_90/answers/answer_87.py)
+答案 >> [answers/answer_87.py](answers/answer_87.py)
 
 ## 问题八十八：k-平均聚类算法（k -means Clustering）第一步：生成质心
 
@@ -224,7 +224,7 @@ Grabity
 2247.      1338.       434.     10822.      4506.       622.    ]]
 ```
 
-答案 >> [answers/answer_88.py](https://github.com/yoyoyo-yo/Gasyori100knock/blob/master/Question_81_90/answers/answer_88.py)
+答案 >> [answers/answer_88.py](answers/answer_88.py)
 
 ## 问题八十九：k-平均聚类算法（k -means Clustering）第二步：聚类（Clustering）
 
@@ -245,7 +245,7 @@ test_madara_1.jpg  Pred: 0
 test_madara_2.jpg  Pred: 0
 ```
 
-答案 >> [answers/answer_89.py](https://github.com/yoyoyo-yo/Gasyori100knock/blob/master/Question_81_90/answers/answer_89.py)
+答案 >> [answers/answer_89.py](answers/answer_89.py)
 
 ## 问题九十：k-平均聚类算法（k -means Clustering）第三步：调整初期类别
 
@@ -270,4 +270,4 @@ train_madara_4.jpg  Pred: 0
 train_madara_5.jpg  Pred: 0
 ```
 
-答案 >> [answers/answer_90.py](https://github.com/yoyoyo-yo/Gasyori100knock/blob/master/Question_81_90/answers/answer_90.py)
+答案 >> [answers/answer_90.py](answers/answer_90.py)
